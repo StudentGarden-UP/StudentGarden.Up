@@ -24,7 +24,22 @@ https://studigarten.wordpress.com/
 - Web App
 - 
 
+Use case:
+- welcome page
+  - How to get connected via telegram or so
+  - meta map
+  - register course @Puls
+- find out which plant is at this location
+  - needs a map of the bed
+  - plant location has to be selectable
+- find out where a plant type is planted
+  - select plant type
+  - show on map where all it's plants are located
+- get information about plant
+- 
+
 ## Ideas:
+- recent weather graph - precipitation
 - Notifications / calendar events
   - irrigation appointments (and responsible student)
   - tool to update events in calendar
